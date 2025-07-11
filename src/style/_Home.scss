@@ -1,0 +1,82 @@
+.heroImage{
+    background-image: url(../assets/images/bg1.png);
+    background-size: cover;
+    background-position: top center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    z-index: 10;
+    color:#fff;
+    justify-content: center;
+        padding-top: 140px;
+}
+$my-gradient:
+ linear-gradient(90deg, rgba(133, 36, 56, 1) 0%, rgba(31, 8, 13, 1) 100%);
+;
+.primaryColor{ color:#852438;} 
+.aboutSec{
+  background: url(../assets/images/aboutbg.png) no-repeat;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  height: 100vh;
+  color: #fff;
+}
+.enquireSec{
+   background: url(../assets/images/contactbg.png) no-repeat;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  color: #fff;
+}
+.map-wrap{
+ul{
+  display: flex;
+  gap: 20px;
+  flex-direction: column;
+
+.li-style{
+  background-color: #F2F2F2;
+  padding: 20px;
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  border-radius: 10px;
+  gap: 20px;
+  i{
+    width: 60px;
+    height: 60px;
+    background-color: #fff;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+}
+}
+.trust{
+
+  background: url(../assets/images/bg2.png) no-repeat;
+  width: 100%;
+  background-size: cover;
+  background-position: top center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+footer{
+   background: url(../assets/images/footer.png) no-repeat;
+   width: 100%;
+  background-size: cover;
+  background-position: top center;
+ 
+}

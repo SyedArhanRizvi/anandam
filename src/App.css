@@ -1,0 +1,24 @@
+@import 'remixicon/fonts/remixicon.css';
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+.heroImage {
+  background-image: url(../assets/images/bg1.png);
+  background-size: cover;
+  background-position: top center;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  z-index: 10;
+  color: #fff;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+  position: relative;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: "Montserrat", sans-serif;
+}/*# sourceMappingURL=App.css.map */
