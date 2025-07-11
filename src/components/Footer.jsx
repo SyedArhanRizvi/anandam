@@ -37,11 +37,7 @@ const Footer = () => {
                     </a>
                   </li>
 
-                  <li className="bg-white text-black w-11 h-11 flex justify-center items-center rounded-full hover:scale-110 hover:rotate-6 transition-transform">
-                    <a href="#">
-                      {/* <FaXTwitter /> */}
-                    </a>
-                  </li>
+       
 
                   <li className="bg-white text-black w-11 h-11 flex justify-center items-center rounded-full hover:scale-110 hover:rotate-6 transition-transform">
                     <a href="#">
