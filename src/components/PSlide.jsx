@@ -2,7 +2,7 @@ import React, { useRef, useEffect, useState } from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Autoplay, Pagination, Navigation } from "swiper/modules";
 
-import pImg1 from "../assets/images/floorOne.jpg";
+import pImg1 from "../../src/assets/images/floorOne.jpg";
 import pImg2 from "../assets/images/floorTwo.jpg";
 import pImg3 from "../assets/images/floorThree.jpg";
 
